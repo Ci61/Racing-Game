@@ -1,5 +1,5 @@
-# PCII_Jing_Liuyi
- Nouveau répertoire pour le projet PCII
+# Racing Game
+The objective of the project is to make a video game from the 80's of the "car race" type in first person view (the vehicle is seen from behind). The originality of this game is to allow the player to drive a kind of motorbike on a cushion of air that can also move horizontally to overtake its competitors.
 
 ### Requirement
 Java jdk 8 (or plus) and JavaFx
